@@ -13,12 +13,14 @@ Copiar
 Editar
 📦 python-pcep-exercises  
  ┣ 📂 exercises  
- ┃ ┣ 📜 01_if_statement.py  
+ ┃ ┣ 📂 if-statement
+ ┃ ┃ ┣ 📜 01_if_statement.py
+ ┃ ┃ ┗ 📜 README.md
  ┃ ┣ 📜 02_loops.py  
  ┃ ┣ 📜 03_functions.py  
  ┃ ┗ 📜 ...  
- ┣ 📜 README.md  
- ┗ 📜 requirements.txt  
+ ┗ 📜 README.md  
+  
 🚀 How to Use
 Clone the repository
 
